@@ -1,0 +1,121 @@
++--------------------------------------+
+| Test from 2025-04-27 15:37:12.773038 |
++--------------------------------------+
+
+KNN_3
+-----
+Accuracy: 0.9600
+Precision: 0.9714
+Recall: 0.9444
+F1 Score: 0.9577
+
+KNN_4
+-----
+Accuracy: 0.9667
+Precision: 1.0000
+Recall: 0.9306
+F1 Score: 0.9640
+
+KNN_5
+-----
+Accuracy: 0.9867
+Precision: 0.9861
+Recall: 0.9861
+F1 Score: 0.9861
+
+KNN_6
+-----
+Accuracy: 0.9867
+Precision: 1.0000
+Recall: 0.9722
+F1 Score: 0.9859
+
+KNN_7
+-----
+Accuracy: 0.9867
+Precision: 0.9861
+Recall: 0.9861
+F1 Score: 0.9861
+
+KNN_8
+-----
+Accuracy: 0.9600
+Precision: 0.9853
+Recall: 0.9306
+F1 Score: 0.9571
+
+KNN_9
+-----
+Accuracy: 0.9733
+Precision: 0.9857
+Recall: 0.9583
+F1 Score: 0.9718
+
+KNN_10
+------
+Accuracy: 0.9667
+Precision: 0.9855
+Recall: 0.9444
+F1 Score: 0.9645
+
+SVM_linear
+----------
+Accuracy: 0.9133
+Precision: 0.8933
+Recall: 0.9306
+F1 Score: 0.9116
+
+SVM_poly
+--------
+Accuracy: 0.9400
+Precision: 0.9846
+Recall: 0.8889
+F1 Score: 0.9343
+
+SVM_rbf
+-------
+Accuracy: 0.9867
+Precision: 1.0000
+Recall: 0.9722
+F1 Score: 0.9859
+
+SVM_sigmoid
+-----------
+Accuracy: 0.7933
+Precision: 0.8154
+Recall: 0.7361
+F1 Score: 0.7737
+
+MLP_relu
+--------
+Accuracy: 0.9667
+Precision: 0.9855
+Recall: 0.9444
+F1 Score: 0.9645
+
+MLP_identity
+------------
+Accuracy: 0.9133
+Precision: 0.9041
+Recall: 0.9167
+F1 Score: 0.9103
+
+MLP_logistic
+------------
+Accuracy: 0.9200
+Precision: 0.9054
+Recall: 0.9306
+F1 Score: 0.9178
+
+MLP_tanh
+--------
+Accuracy: 0.9667
+Precision: 0.9855
+Recall: 0.9444
+F1 Score: 0.9645
+
+
++-------------+
+| End of test |
++-------------+
+
